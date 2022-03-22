@@ -1,0 +1,12 @@
+git init
+git clone <https://url-do-link>
+git remote rm origin
+git branch <nome-da-branch>
+git push -u <remote> <nome-da-branch>
+git status
+git add <arquivo>
+git add -A
+git commit -m "mensagem explicando a mudança no código"
+git push <remote> <nome-do-branch>
+git push -u origin <nome-do-branch>
+git pull <remote>
